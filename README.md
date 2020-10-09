@@ -9,3 +9,7 @@ Follow the steps to know how to get Notification at a particular time with alarm
 4. Enter the description through text keyboard or use speech to text. 
 5. Select the date and time on which event is scheduled and then submit. 
 6. The alarm manager app will automatically generate a notification when the event is scheduled.
+
+IDE Version : Android stuido 4.0.1
+SDK Version  :29
+Implementation Link : https://www.youtube.com/watch?v=L9XdV77NE_M&t=1678s
